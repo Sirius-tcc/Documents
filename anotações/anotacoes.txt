@@ -1,0 +1,8 @@
+Arrumar---------
+
+arrumar MER, tabela tbAjudas (tirar atributo matéria e colocar FK materia)
+
+arrumar word na parte do ANO
+
+colocar mer em modo paisagem
+vc precisa inserir uma quebra antes e depois .. quebra de seção contínua
